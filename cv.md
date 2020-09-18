@@ -6,12 +6,19 @@
 1. I am interested in cryptocurrency trading and
 development of trading bots
 1. Get experience in:
-    * website development
-    * using API
+    * Website development
+    * API using 
     * PHP
     * MySQL
     * JS
     * Python
+    * BlockChain technology
+    * Cryptocurrency trading
+ 1. 
+ 1.
+ 1. Higher education. Graduated BGUIR
+ 1. Intermediate A2-B1
+ 
     
 
 
